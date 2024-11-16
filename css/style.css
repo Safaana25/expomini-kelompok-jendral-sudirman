@@ -21,7 +21,7 @@ body {
 }
 .left-title-box {
     background-color: brown;
-    color: burlywood;
+    color:gold;
     width: 220px;
     padding-left: 20px;
     padding-top: 5px;
@@ -42,10 +42,10 @@ body {
     text-decoration: none;
 }
 .link-list:link {
-    color: chocolate;
+    color:black;
 }
 .link-list:visited {
-    color: chocolate;
+    color:black;
 }
 .left-list-dot {
     height: 50px;
@@ -81,14 +81,14 @@ body {
 }
 .left-subject-container {
     width: 380px;
-    color: #FBFBFB;
+    color: #5e2b2b;
     background-color: chocolate;
 }
 .left-subject-value {
     padding: 0,01em 16px;
     text-align: center;
     color: bisque;
-    background-color: chocolate;
+    background-color: rgb(171, 150, 43);
 }
 /* RIGHT SIDE */
 .right-side {
@@ -204,7 +204,7 @@ body {
     margin-top: 25px;
     font-size: 23px;
     font-weight: bold;
-    color: indianred;
+    color:khaki;
 }
 .right-value-item {
     width: 300px;
@@ -227,7 +227,7 @@ body {
 .sosmed {
     margin-left: 15px;
     flex-grow: 0;
-    color: blanchedalmond;
+    color:brown;
     display:flex;
 }
 .sosmed-text {
@@ -241,15 +241,15 @@ body {
 }
 .sosmed-divider {
     height: 8px;
-    background-color: chocolate;
+    background-color: beige;
 }
 .sosmed-divider-first {
     margin-bottom: 10px;
     height: 3px;
-    background-color: aqua;
+    background-color: rgb(130, 255, 255);
 }
 .sosmed-divider-last {
     margin-top: 10px;
     height: 30px;
-    background-color: azure;
+    background-color: rgb(130, 255, 255);
 }
