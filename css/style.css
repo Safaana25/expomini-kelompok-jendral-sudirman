@@ -13,15 +13,15 @@ body {
 }
 /* LEFT SIDE */
 .left-side {
-    background-color: #8A0F0F;
+    background-color: #982b1c;
 }
 .left-container {
     margin-top: 600px;
     margin-left: 100px;
 }
 .left-title-box {
-    background-color: #DA8359;
-    color: #FCFAEE;
+    background-color: #de8f5f;
+    color: #fff0d1;
     width: 220px;
     padding-left: 20px;
     padding-top: 5px;
@@ -35,7 +35,7 @@ body {
     margin-bottom: 40px;
 }
 .left-value-decs {
-    color: #F3F3E0;
+    color: #ffdbb5;
 }
 .left-list {
     margin-bottom: 10px;
@@ -72,8 +72,8 @@ body {
     font-size: 20px;
     font-weight: bold;
     border-bottom-style: solid;
-    border-color:ghostwhite;
-    color:#FDD2BF;
+    border-color: #de8f5f;
+    color: #FDD2BF;
 }
 .left-list-time {
     font-weight: bold;
@@ -83,7 +83,7 @@ body {
     margin-top: 20px;
     font-weight: bold;
     font-size: 21px;
-    color:antiquewhite;
+    color: #ffcf9d;
 }
 .left-subject-container {
     width: 380px;
@@ -93,13 +93,13 @@ body {
 .left-subject-value {
     padding: 0,01em 16px;
     text-align: center;
-    color:lightgray;
+    color: #ffb38e;
     background-color: rgb(171, 150, 43);
 }
 /* RIGHT SIDE */
 .right-side {
-    background-color: #C7753D;
-    color: bisque;
+    background-color: #d7b26d;
+    color: #982b1c;
 }
 .name-container {
     margin-top: 150px;
@@ -107,7 +107,7 @@ body {
 }
 .name-profile {
     width: 85%;
-    background-color: darkolivegreen;
+    background-color: #af8260;
     text-align: left;
     font-size: 53px;
     font-weight: bold;
@@ -118,7 +118,7 @@ body {
 .name-profile-text {
     margin-left: 0px;
     flex-grow: 0;
-    color: black;
+    color: #481e14;
 }
 .name-profile-divider-master {
     flex-grow: 1;
@@ -126,7 +126,7 @@ body {
 }
 .name-profile-divider {
     height: 10px;
-    background-color: darkblue;
+    background-color: #803d3b;
 }
 .name-profile-divider-first {
     margin-bottom: 10px;
@@ -173,8 +173,8 @@ body {
     margin-top: 105px;
 }
 .right-title-box {
-    background-color: white;
-    color: coral;
+    background-color: #630000;
+    color: #b99b6b;
     width: 400px;
     padding-left: 50px;
     padding-top: 5px;
@@ -189,13 +189,13 @@ body {
     font-size: 23px;
     font-weight: bold;
     margin-top: 25px;
-    color: firebrick;
+    color: #820000;
 }
 .right-time {
     margin-top: 15px;
     width: 150px;
     border-bottom-style: solid;
-    border-color: darksalmon;
+    border-color: #bf3131;
     font-weight: bold;
 }
 .right-value-text {
@@ -210,7 +210,7 @@ body {
     margin-top: 25px;
     font-size: 23px;
     font-weight: bold;
-    color:khaki;
+    color: #bf3131;
 }
 .right-value-item {
     width: 300px;
@@ -222,7 +222,7 @@ body {
     text-align: -webkit-right;
 }
 .sosmed-content {
-    background-color: beige;
+    background-color: #af8260;
     text-align: left;
     font-size: 25px;
     font-weight: bold;
@@ -233,7 +233,7 @@ body {
 .sosmed {
     margin-left: 15px;
     flex-grow: 0;
-    color:brown;
+    color: #4f091d;
     display:flex;
 }
 .sosmed-text {
@@ -252,10 +252,10 @@ body {
 .sosmed-divider-first {
     margin-bottom: 10px;
     height: 7px;
-    background-color: #FFBD73;
+    background-color: #803d3b;
 }
 .sosmed-divider-last {
     margin-top: 10px;
     height: 7px;
-    background-color: #FFBD73;
+    background-color: #803d3b;
 }
