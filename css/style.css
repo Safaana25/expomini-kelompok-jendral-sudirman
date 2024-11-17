@@ -69,10 +69,12 @@ body {
     font-size: 20px;
     font-weight: bold;
     border-bottom-style: solid;
-    border-color:#FFCF9D;
+    border-color:ghostwhite;
+    color:#FDD2BF;
 }
 .left-list-time {
     font-weight: bold;
+    color: #FDD2BF;
 }
 .left-subject-title {
     margin-top: 20px;
@@ -89,7 +91,7 @@ body {
 .left-subject-value {
     padding: 0,01em 16px;
     text-align: center;
-    color: bisque;
+    color:lightgray;
     background-color: rgb(171, 150, 43);
 }
 /* RIGHT SIDE */
