@@ -13,7 +13,7 @@ body {
 }
 /* LEFT SIDE */
 .left-side {
-    background-color: crimson;
+    background-color: #8A0F0F;
 }
 .left-container {
     margin-top: 600px;
@@ -94,7 +94,7 @@ body {
 }
 /* RIGHT SIDE */
 .right-side {
-    background-color: chocolate;
+    background-color: #C7753D;
     color: bisque;
 }
 .name-container {
